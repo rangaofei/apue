@@ -1,0 +1,6 @@
+//
+// Created by saka on 2018/2/1.
+//
+#cmakedefine PROJECT_VERSION_MAJOR @PROJECT_VERSION_MAJOR@
+
+#cmakedefine TEST "@TEST@"
